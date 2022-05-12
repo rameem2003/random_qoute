@@ -16,7 +16,7 @@ https://rameem2003.github.io/rameem.me
 
 ### To visit this site: 
 ```
-
+https://rameem2003.github.io/random_qoute/
 ```
 
 # Webpage interface
